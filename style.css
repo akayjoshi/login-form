@@ -12,7 +12,7 @@
     position: relative;
     display: grid;
     place-items: center;
-    overflow:auto;
+    overflow:scroll;
 }
 
 .wrapper{
