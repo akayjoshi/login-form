@@ -12,6 +12,7 @@
     position: relative;
     display: grid;
     place-items: center;
+    overflow:auto;
 }
 
 .wrapper{
