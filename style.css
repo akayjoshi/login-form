@@ -17,7 +17,7 @@
 
 .wrapper{
     background-color: black;
-    width: clamp(300px, 70vw, 700px);
+    width: clamp(300px, 60vw, 700px);
     height: 70vh;
     opacity: 0.6;
     display: flex;
